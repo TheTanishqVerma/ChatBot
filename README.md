@@ -19,7 +19,6 @@ This is a basic chatbot built using Python with if-elif-else logic as part of th
 CHATBOT
 
 ├── chatbot.py
-
 └── README.md
 
 ## How to Run
