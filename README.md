@@ -35,15 +35,23 @@ This is a basic chatbot built using Python with if-elif-else logic as part of th
 Input:
 
 hello
+
 how are you
+
 what's your name?
+
 bye
+
 exit
 
 Output:
 
 Bot: Hello there! How can I help you?
+
 Bot: I'm just a program, but I'm functioning as expected! 😊
+
 Bot: I’m a simple chatbot made in Python!
+
 Bot: Bye! Type 'exit' to close the chat.
+
 Bot: Goodbye! Have a nice day 👋
